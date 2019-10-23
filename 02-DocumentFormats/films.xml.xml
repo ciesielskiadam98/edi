@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<films>
+	<film title="Interstellar" year="2014">
+		<genre>Sci-Fi</genre>
+		<personal_rating>9</personal_rating>
+		<director>Christopher Nolan</director>
+		<actors>
+			<actor>Matthew McConaughey</actor>
+			<actor>Anne Hathaway</actor>
+			<actor>Jessica Chastain</actor>
+		</actors>
+	</film>
+	<film title="Inception" year="2010">
+		<genre>Sci-Fi</genre>
+		<personal_rating>8</personal_rating>
+		<director>Christopher Nolan</director>
+		<actors>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Cillian Murphy</actor>
+			<actor>Ellen Page</actor>
+		</actors>
+	</film>
+	<film title="Forrest Gump" year="1994">
+		<genre>Drama</genre>
+		<personal_rating>9</personal_rating>
+		<director>Robert Zemeckis</director>
+		<actors>
+			<actor>Tom Hanks</actor>
+			<actor>Robin Wright</actor>
+			<actor>Gary Sinise</actor>
+		</actors>
+	</film>
+	<film title="The Green Mile" year="1999">
+		<genre>Drama</genre>
+		<personal_rating>10</personal_rating>
+		<director>Frank Darabont</director>
+		<actors>
+			<actor>Tom Hanks</actor>
+			<actor>Michael Clarke Duncan</actor>
+			<actor>Sam Rockwell</actor>
+		</actors>
+	</film>
+	<film title="The Shining" year="1980">
+		<genre>Horror</genre>
+		<personal_rating>9</personal_rating>
+		<director>Stanley Kubrick</director>
+		<actors>
+			<actor>Jack Nicholson</actor>
+			<actor>Shelley Duvall</actor>
+			<actor>Danny Lloyd</actor>
+		</actors>
+	</film>
+</films>

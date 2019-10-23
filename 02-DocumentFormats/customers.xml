@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+   <customer>
+      <first_name>Alphonse</first_name>
+      <last_name>Richie</last_name>
+      <email>arichie0@comcast.net</email>
+      <gender>Male</gender>
+      <age>26</age>
+      <car>Opel</car>
+      <job>VP Quality Control</job>
+      <favourite_film>Horror</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Ardelle</first_name>
+      <last_name>Ziemke</last_name>
+      <email>aziemke1@huffingtonpost.com</email>
+      <gender>Female</gender>
+      <age>41</age>
+      <car>Mazda</car>
+      <job>Software Consultant</job>
+      <favourite_film>Thriller</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Catlaina</first_name>
+      <last_name>Haslegrave</last_name>
+      <email>chaslegrave2@uiuc.edu</email>
+      <gender>Female</gender>
+      <age>54</age>
+      <car>Renault</car>
+      <job>Statistician II</job>
+      <favourite_film>Thriller</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Kellyann</first_name>
+      <last_name>Jeune</last_name>
+      <email>kjeune3@friendfeed.com</email>
+      <gender>Female</gender>
+      <age>60</age>
+      <car>Renault</car>
+      <job>Software Engineer II</job>
+      <favourite_film>Drama</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Evaleen</first_name>
+      <last_name>Eede</last_name>
+      <email>eeede4@newyorker.com</email>
+      <gender>Female</gender>
+      <age>71</age>
+      <car>Ford</car>
+      <job>Automation Specialist II</job>
+      <favourite_film>Action</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Andre</first_name>
+      <last_name>Riseborough</last_name>
+      <email>ariseborough5@spiegel.de</email>
+      <gender>Male</gender>
+      <age>29</age>
+      <car>Renault</car>
+      <job>Civil Engineer</job>
+      <favourite_film>Drama</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Dorothee</first_name>
+      <last_name>Stronge</last_name>
+      <email>dstronge6@yolasite.com</email>
+      <gender>Female</gender>
+      <age>45</age>
+      <car>Renault</car>
+      <job>Help Desk Technician</job>
+      <favourite_film>Drama</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Bamby</first_name>
+      <last_name>Stonham</last_name>
+      <email>bstonham7@theatlantic.com</email>
+      <gender>Female</gender>
+      <age>60</age>
+      <car>Renault</car>
+      <job>VP Marketing</job>
+      <favourite_film>Action</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Frederigo</first_name>
+      <last_name>Hearfield</last_name>
+      <email>fhearfield8@dedecms.com</email>
+      <gender>Male</gender>
+      <age>74</age>
+      <car>Mazda</car>
+      <job>Operator</job>
+      <favourite_film>Drama</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Lory</first_name>
+      <last_name>Bonfield</last_name>
+      <email>lbonfield9@nyu.edu</email>
+      <gender>Female</gender>
+      <age>27</age>
+      <car>Opel</car>
+      <job>Biostatistician II</job>
+      <favourite_film>Drama</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Kimble</first_name>
+      <last_name>Dimitru</last_name>
+      <email>kdimitrua@mail.ru</email>
+      <gender>Male</gender>
+      <age>56</age>
+      <car>Mazda</car>
+      <job>Director of Sales</job>
+      <favourite_film>Thriller</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Romonda</first_name>
+      <last_name>Apedaile</last_name>
+      <email>rapedaileb@latimes.com</email>
+      <gender>Female</gender>
+      <age>66</age>
+      <car>Renault</car>
+      <job>Cost Accountant</job>
+      <favourite_film>Drama</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Merle</first_name>
+      <last_name>Cruddas</last_name>
+      <email>mcruddasc@abc.net.au</email>
+      <gender>Female</gender>
+      <age>65</age>
+      <car>Renault</car>
+      <job>Assistant Manager</job>
+      <favourite_film>Thriller</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Horten</first_name>
+      <last_name>Aubin</last_name>
+      <email>haubind@godaddy.com</email>
+      <gender>Male</gender>
+      <age>64</age>
+      <car>Ford</car>
+      <job>Electrical Engineer</job>
+      <favourite_film>Thriller</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Hasheem</first_name>
+      <last_name>Yeskin</last_name>
+      <email>hyeskine@google.com.hk</email>
+      <gender>Male</gender>
+      <age>45</age>
+      <car>Ford</car>
+      <job>Administrative Officer</job>
+      <favourite_film>Drama</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Staci</first_name>
+      <last_name>Timbs</last_name>
+      <email>stimbsf@scientificamerican.com</email>
+      <gender>Female</gender>
+      <age>71</age>
+      <car>Renault</car>
+      <job>Safety Technician I</job>
+      <favourite_film>Comedy</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Gibb</first_name>
+      <last_name>Snailham</last_name>
+      <email>gsnailhamg@irs.gov</email>
+      <gender>Male</gender>
+      <age>80</age>
+      <car>Opel</car>
+      <job>Chief Design Engineer</job>
+      <favourite_film>Comedy</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Elysia</first_name>
+      <last_name>Larn</last_name>
+      <email>elarnh@deliciousdays.com</email>
+      <gender>Female</gender>
+      <age>65</age>
+      <car>Renault</car>
+      <job>Pharmacist</job>
+      <favourite_film>Horror</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Mahala</first_name>
+      <last_name>Abethell</last_name>
+      <email>mabethelli@shop-pro.jp</email>
+      <gender>Female</gender>
+      <age>24</age>
+      <car>Renault</car>
+      <job>VP Marketing</job>
+      <favourite_film>Drama</favourite_film>
+   </customer>
+   <customer>
+      <first_name>Grayce</first_name>
+      <last_name>Grayling</last_name>
+      <email>ggraylingj@liveinternet.ru</email>
+      <gender>Female</gender>
+      <age>21</age>
+      <car>Mazda</car>
+      <job>Data Coordiator</job>
+      <favourite_film>Thriller</favourite_film>
+   </customer>
+</customers>
