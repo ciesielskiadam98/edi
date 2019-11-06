@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Execute a condition</title>
-		<meta charset="UTF-8">
-	</head>
-	<body>
-		<h1>Execute a condition</h1>
-		<p>Display data one the console</p>
 
-		<script>
-			// enter your name, surname
-			// ...
-			
-			// display your personal data on the console
-			// ...
-			
-			// 
-		</script>
-	</body>
+<head>
+    <title>Execute a condition</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <h1>Execute a condition</h1>
+    <p>Display data one the console</p>
+
+    <script>
+        name = prompt("Podaj imie")
+        surname = prompt("Podaj nazwisko")
+        age = parseInt(prompt("Podaj wiek"))
+        x = window.confirm("Czy chcesz wyświetlić dane w konsoli?")
+        if (x) {
+            console.log(name, surname, age)
+        }
+
+    </script>
+</body>
+
 </html>
